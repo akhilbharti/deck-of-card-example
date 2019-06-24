@@ -1,0 +1,35 @@
+.deck-card-pitch{
+    height: 50vw;
+    width: 50vw;
+}
+.Deck-cardarea{
+    margin-top:90px;
+}
+.deck-title{
+    color: azure;
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+.subtitle{
+    font-size: 20px;
+}
+
+.deck-btn{
+    background: none;
+    cursor: pointer;
+    outline: none;
+    font:inherit;
+    margin: 0.5em;
+    padding: 1em 2em;
+    color:#95A8A2;
+    border-radius: 15px;
+    -webkit-box-shadow: 12px 10px 7px 3px rgba(0,0,0,0.72);
+    -moz-box-shadow: 12px 10px 7px 3px rgba(0,0,0,0.72);
+    box-shadow: 12px 10px 7px 3px rgba(0,0,0,0.72);
+
+}
+.deck-btn:hover{
+    color:#EE7560;
+    border-color:#95A8A2;
+}
